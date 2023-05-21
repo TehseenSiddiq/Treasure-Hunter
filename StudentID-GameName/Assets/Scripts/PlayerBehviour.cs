@@ -65,11 +65,6 @@ public class PlayerBehviour : MonoBehaviour
             return;
         }
 
-       /* if (_input.Reload && currentAmmo < magazineSize)
-        {
-            StartCoroutine(Reload());
-            return;
-        }*/
 
         if (_input.shoot && Time.time >= nextFireTime)
         {
