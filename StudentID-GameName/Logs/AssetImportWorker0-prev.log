@@ -15,11 +15,11 @@ F:/Unity Projects/ITECH2001-PartC-ProjectTemplate/StudentID-GameName
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56367
+63771
 Successfully changed project path to: F:/Unity Projects/ITECH2001-PartC-ProjectTemplate/StudentID-GameName
 F:/Unity Projects/ITECH2001-PartC-ProjectTemplate/StudentID-GameName
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 85.21 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 85.40 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.5f1 (8095aa901b9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
@@ -35,16 +35,796 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56652
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56268
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002591 seconds.
+Registered in 0.243285 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 63.34 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 65.65 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.355 seconds
+- Completed reload, in  5.788 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002061 seconds.
+Registered in 0.378525 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 59.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.091 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1701 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.4 MB.
+System memory in use after: 173.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2185.
+Total: 2.541600 ms (FindLiveObjects: 0.241700 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.986100 ms  DeleteObjects: 0.265900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Unity Store Assets/WizardPolyArt/Prefabs/Staff02Polyart.prefab
+  artifactKey: Guid(e55280988a6fa1843a32025141146c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Prefabs/Staff02Polyart.prefab using Guid(e55280988a6fa1843a32025141146c2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32c54a01aabdcbd0002ea3a930a4d85') in 0.158741 seconds
+  Import took 0.193047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt
+  artifactKey: Guid(0a868e93d439d3c418d5f8bef47a32da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt using Guid(0a868e93d439d3c418d5f8bef47a32da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b856eaca9bb7e7b68bbef4420b7aac') in 0.009241 seconds
+  Import took 0.090730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Prefabs/PolyArtWizardMaskTintMat.prefab
+  artifactKey: Guid(dbf7a0c9d76b77a40af3104feac0641d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Prefabs/PolyArtWizardMaskTintMat.prefab using Guid(dbf7a0c9d76b77a40af3104feac0641d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24c4c264a5f4d5a80eac56ff3e3cfe42') in 0.367251 seconds
+  Import took 0.489289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Prefabs/Staff03PolyArt.prefab
+  artifactKey: Guid(c413fed5af1bfe847af0ed883ee868db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Prefabs/Staff03PolyArt.prefab using Guid(c413fed5af1bfe847af0ed883ee868db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2654e28bc7a1024e408730e2142c5a43') in 0.014343 seconds
+  Import took 0.017676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Prefabs/Staff01PolyArt.prefab
+  artifactKey: Guid(713f90f70ef14794bbdcabcb038f4ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Prefabs/Staff01PolyArt.prefab using Guid(713f90f70ef14794bbdcabcb038f4ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '581ed4528d3ebebda90e7f5b8a2b7e9e') in 0.015698 seconds
+  Import took 0.176666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Prefabs/PolyArtWizardStandardMat.prefab
+  artifactKey: Guid(ccd8c3b89aa02e943a08ab9238a8a70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Prefabs/PolyArtWizardStandardMat.prefab using Guid(ccd8c3b89aa02e943a08ab9238a8a70c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdfb2657576a4374b9554ee274e57a05') in 0.052923 seconds
+  Import took 0.097537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Prefabs
+  artifactKey: Guid(6db0bb99fff60fb48b231df984fad89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Prefabs using Guid(6db0bb99fff60fb48b231df984fad89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e707bc0f63da4e996042a0b92b242381') in 0.046733 seconds
+  Import took 0.197854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.982929 seconds.
+  path: Assets/Scripts/Dialogue.cs
+  artifactKey: Guid(7b9c1e24a644dad469e8a2e2a5478c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Dialogue.cs using Guid(7b9c1e24a644dad469e8a2e2a5478c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc477c171b7b4e7ab8456d9c9029856c') in 0.019768 seconds
+  Import took 0.137904 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003840 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.481 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1671 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 188.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2197.
+Total: 3.112000 ms (FindLiveObjects: 0.429700 ms CreateObjectMapping: 0.168300 ms MarkObjects: 2.492200 ms  DeleteObjects: 0.018100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003800 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.153 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1671 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.9 MB.
+System memory in use after: 188.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2200.
+Total: 2.810900 ms (FindLiveObjects: 0.261800 ms CreateObjectMapping: 0.044300 ms MarkObjects: 2.480500 ms  DeleteObjects: 0.022300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002377 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.159 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1672 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.9 MB.
+System memory in use after: 188.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2204.
+Total: 2.527500 ms (FindLiveObjects: 0.295800 ms CreateObjectMapping: 0.043800 ms MarkObjects: 2.163000 ms  DeleteObjects: 0.023100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.144 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1672 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.9 MB.
+System memory in use after: 188.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2207.
+Total: 3.021200 ms (FindLiveObjects: 0.359500 ms CreateObjectMapping: 0.059600 ms MarkObjects: 2.569800 ms  DeleteObjects: 0.030000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002019 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.090 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2211.
+Total: 2.527200 ms (FindLiveObjects: 0.317000 ms CreateObjectMapping: 0.044500 ms MarkObjects: 2.138200 ms  DeleteObjects: 0.025100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002076 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.126 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2214.
+Total: 2.525500 ms (FindLiveObjects: 0.295900 ms CreateObjectMapping: 0.045100 ms MarkObjects: 2.163200 ms  DeleteObjects: 0.018800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001982 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.058 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2217.
+Total: 2.687000 ms (FindLiveObjects: 0.313500 ms CreateObjectMapping: 0.071200 ms MarkObjects: 2.277900 ms  DeleteObjects: 0.022700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002240 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2220.
+Total: 2.423400 ms (FindLiveObjects: 0.263800 ms CreateObjectMapping: 0.044900 ms MarkObjects: 2.093700 ms  DeleteObjects: 0.019400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002184 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2223.
+Total: 2.534400 ms (FindLiveObjects: 0.334400 ms CreateObjectMapping: 0.067700 ms MarkObjects: 2.108300 ms  DeleteObjects: 0.022600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002135 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.065 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2226.
+Total: 2.236700 ms (FindLiveObjects: 0.228600 ms CreateObjectMapping: 0.045700 ms MarkObjects: 1.946300 ms  DeleteObjects: 0.014600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002168 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.040 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2229.
+Total: 3.853700 ms (FindLiveObjects: 0.345000 ms CreateObjectMapping: 0.051700 ms MarkObjects: 3.430400 ms  DeleteObjects: 0.024500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3192.471376 seconds.
+  path: Assets/Prefabs/TypingMessageLight.prefab
+  artifactKey: Guid(8b7b7b3a834513849a20b8d161ffd7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TypingMessageLight.prefab using Guid(8b7b7b3a834513849a20b8d161ffd7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8978f789b3da553b157e383ce61e199c') in 0.041618 seconds
+  Import took 0.221685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.160011 seconds.
+  path: Assets/Materials/talkbubble.png
+  artifactKey: Guid(b22c04411148f0c41a201f2557f30074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/talkbubble.png using Guid(b22c04411148f0c41a201f2557f30074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c434a8f450762e9913fe1968c6c3c101') in 0.190471 seconds
+  Import took 0.339245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003464 seconds.
+  path: Assets/Materials/talkbubble.png
+  artifactKey: Guid(b22c04411148f0c41a201f2557f30074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/talkbubble.png using Guid(b22c04411148f0c41a201f2557f30074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c434a8f450762e9913fe1968c6c3c101') in 0.006704 seconds
+  Import took 0.264657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.488580 seconds.
+  path: Assets/Materials/talkbubble.png
+  artifactKey: Guid(b22c04411148f0c41a201f2557f30074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/talkbubble.png using Guid(b22c04411148f0c41a201f2557f30074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc475adf22f1f4ad269c5fe8332deeb') in 0.067238 seconds
+  Import took 0.214401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.857155 seconds.
+  path: Assets/Prefabs/TypingMessageLight.prefab
+  artifactKey: Guid(8b7b7b3a834513849a20b8d161ffd7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TypingMessageLight.prefab using Guid(8b7b7b3a834513849a20b8d161ffd7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea26f0f4df7ff41e629bd31ce4670c1') in 0.004997 seconds
+  Import took 0.086877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054208 seconds.
+  path: Assets/Prefabs/TypingMessageLight.prefab
+  artifactKey: Guid(8b7b7b3a834513849a20b8d161ffd7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/TypingMessageLight.prefab using Guid(8b7b7b3a834513849a20b8d161ffd7e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea26f0f4df7ff41e629bd31ce4670c1') in 0.003867 seconds
+  Import took 0.007049 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002033 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.089 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2235.
+Total: 2.903000 ms (FindLiveObjects: 0.253700 ms CreateObjectMapping: 0.057000 ms MarkObjects: 2.572700 ms  DeleteObjects: 0.018200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003075 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.258 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 188.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2238.
+Total: 5.055700 ms (FindLiveObjects: 0.442500 ms CreateObjectMapping: 0.182900 ms MarkObjects: 4.392200 ms  DeleteObjects: 0.035400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002098 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.044 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.1 MB.
+System memory in use after: 188.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2241.
+Total: 2.524800 ms (FindLiveObjects: 0.298300 ms CreateObjectMapping: 0.058900 ms MarkObjects: 2.148000 ms  DeleteObjects: 0.018000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002135 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.063 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.1 MB.
+System memory in use after: 188.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2244.
+Total: 2.477300 ms (FindLiveObjects: 0.341000 ms CreateObjectMapping: 0.045600 ms MarkObjects: 2.068800 ms  DeleteObjects: 0.020800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.043 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.1 MB.
+System memory in use after: 188.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2247.
+Total: 2.407900 ms (FindLiveObjects: 0.279600 ms CreateObjectMapping: 0.044400 ms MarkObjects: 2.061700 ms  DeleteObjects: 0.020500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 154.9 MB.
+System memory in use after: 155.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2247.
+Total: 2.655900 ms (FindLiveObjects: 0.359400 ms CreateObjectMapping: 0.066400 ms MarkObjects: 2.209200 ms  DeleteObjects: 0.019200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1023.492363 seconds.
+  path: Assets/DialogueManager.cs
+  artifactKey: Guid(a8f16d4de81463240ade9369049aac4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DialogueManager.cs using Guid(a8f16d4de81463240ade9369049aac4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c46dd23e47ed4580b2910ead86ec7d29') in 0.011747 seconds
+  Import took 0.072467 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002095 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.122 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1673 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.1 MB.
+System memory in use after: 188.2 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 2.742400 ms (FindLiveObjects: 0.255000 ms CreateObjectMapping: 0.046000 ms MarkObjects: 2.417500 ms  DeleteObjects: 0.021900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.133681 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/WizardAnimControl.controller
+  artifactKey: Guid(2890c9060ce4f6b45b4082d87f47b27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/WizardAnimControl.controller using Guid(2890c9060ce4f6b45b4082d87f47b27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f5c63d664148fefc6297b28ad6c227') in 0.091120 seconds
+  Import took 0.244276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.909514 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Attack01.fbx
+  artifactKey: Guid(3f2f5660b185f02479d526fb256acbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Attack01.fbx using Guid(3f2f5660b185f02479d526fb256acbe4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '257dabf2aaf3e8180fff06481ccef079') in 0.159518 seconds
+  Import took 0.190514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Attack02Start.fbx
+  artifactKey: Guid(7fdb60c8dc5c5ed429ede0d591bce079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Attack02Start.fbx using Guid(7fdb60c8dc5c5ed429ede0d591bce079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6916a1455a42e9ce2920cc62ed993e') in 0.059577 seconds
+  Import took 0.256157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/JumpUp.fbx
+  artifactKey: Guid(d84eaa1354c31fa49a71e96cc487d56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/JumpUp.fbx using Guid(d84eaa1354c31fa49a71e96cc487d56f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0bde5c85afcad8d160e8fd6699359aa') in 0.081668 seconds
+  Import took 0.238671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/VictoryStart.fbx
+  artifactKey: Guid(308b48c15b0fc8d4a83d4703f4dbeb3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/VictoryStart.fbx using Guid(308b48c15b0fc8d4a83d4703f4dbeb3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8948a448f1b757238dc9b4b3a7805c3') in 0.093695 seconds
+  Import took 0.229792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/DefendMaintain.fbx
+  artifactKey: Guid(c4b5c0e66f5602c4d9d0a70261bca170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/DefendMaintain.fbx using Guid(c4b5c0e66f5602c4d9d0a70261bca170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41def742601e0d2240a4f794836bd110') in 0.119283 seconds
+  Import took 0.294421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Attack03Maintain.fbx
+  artifactKey: Guid(84360086255e9b24eb56fb310a84754e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Attack03Maintain.fbx using Guid(84360086255e9b24eb56fb310a84754e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc912dd980b522f93c28b931ad06c67') in 0.079945 seconds
+  Import took 0.237065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/JumpAirAttack.fbx
+  artifactKey: Guid(0ea920bff0bc70345a1ac988ac997e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/JumpAirAttack.fbx using Guid(0ea920bff0bc70345a1ac988ac997e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00fd76e38962de52d3b96fa00e2864c') in 0.076497 seconds
+  Import took 0.218376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Attack03Start.fbx
+  artifactKey: Guid(4fce6296ed4db2c49b2b02fb8c9bea7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Attack03Start.fbx using Guid(4fce6296ed4db2c49b2b02fb8c9bea7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9037d88aa3e8e449b28cf803177a05') in 0.065268 seconds
+  Import took 0.222934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/BattleWalkBack.fbx
+  artifactKey: Guid(61d53a1bd108efb4a8f50f729e2b15bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/BattleWalkBack.fbx using Guid(61d53a1bd108efb4a8f50f729e2b15bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a27c9bd9ff81df63e530ae6e36137c6f') in 0.067459 seconds
+  Import took 0.127864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Attack04.fbx
+  artifactKey: Guid(8692461656b17c84981f4c64c15341fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Attack04.fbx using Guid(8692461656b17c84981f4c64c15341fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef64567dd0e666724ba2a5a4a16088d0') in 0.042593 seconds
+  Import took 0.242725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Idle01.fbx
+  artifactKey: Guid(c24d7c58cefa37a4a84ebd75f98bcfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Idle01.fbx using Guid(c24d7c58cefa37a4a84ebd75f98bcfc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6b1e8edf92559c7918056b46d1d665') in 0.066265 seconds
+  Import took 0.155207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/WalkForward.fbx
+  artifactKey: Guid(8254954c6c0cf98469be07a2c0a87db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/WalkForward.fbx using Guid(8254954c6c0cf98469be07a2c0a87db8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f771830ae6e0a43c8274604e353bf29a') in 0.082787 seconds
+  Import took 0.198614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Interact.fbx
+  artifactKey: Guid(4a412c425e347044d9bd20cf127cd4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Interact.fbx using Guid(4a412c425e347044d9bd20cf127cd4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c020155d11af44147e795d31a26de7e4') in 0.087189 seconds
+  Import took 0.255029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/JumpEnd.fbx
+  artifactKey: Guid(a89727a6c7e9e224f9079feba5ba3ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/JumpEnd.fbx using Guid(a89727a6c7e9e224f9079feba5ba3ace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd00fb403a10b3a7e715f50c68e5abec0') in 0.062791 seconds
+  Import took 0.196748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/JumpUpAttack.fbx
+  artifactKey: Guid(00ac993e870df7c4b9425dfb0e4dcce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/JumpUpAttack.fbx using Guid(00ac993e870df7c4b9425dfb0e4dcce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6e0faab87d3a12dabe1d109f0a66af') in 0.064398 seconds
+  Import took 0.341924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/BattleWalkForward.fbx
+  artifactKey: Guid(d08cb4da34e0ede4c82e968040ea86c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/BattleWalkForward.fbx using Guid(d08cb4da34e0ede4c82e968040ea86c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec4d7f7d458f7188e86fa9eefde5ada5') in 0.063833 seconds
+  Import took 0.224091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/BattleWalkRight.fbx
+  artifactKey: Guid(034514e1d437a2d4dade1cdf55367352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/BattleWalkRight.fbx using Guid(034514e1d437a2d4dade1cdf55367352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88292a77225869ff94a1c6cf38e07d93') in 0.094012 seconds
+  Import took 0.276265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/DefendHit.fbx
+  artifactKey: Guid(e7da2deb9071c004cb067139c9064ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/DefendHit.fbx using Guid(e7da2deb9071c004cb067139c9064ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fce2c2e67b7bd6ebd3d8bc5071da803') in 0.081502 seconds
+  Import took 0.244826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/PickUp.fbx
+  artifactKey: Guid(9cf799ef67aa99a48bfffcb222ef873f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/PickUp.fbx using Guid(9cf799ef67aa99a48bfffcb222ef873f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bde08429fbc0b1d28bac32d3048a9068') in 0.083268 seconds
+  Import took 0.165039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Attack02Maintain.fbx
+  artifactKey: Guid(772ab72bc9a5db54bbf0865469eecc37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Attack02Maintain.fbx using Guid(772ab72bc9a5db54bbf0865469eecc37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963748f2fe50d77ae3aa99fba6cecaa0') in 0.090307 seconds
+  Import took 0.221818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/DieRecovery.fbx
+  artifactKey: Guid(6cece5862609d2446a5ba4c9cc2d8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/DieRecovery.fbx using Guid(6cece5862609d2446a5ba4c9cc2d8b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950254b800790053e7e721b716db0707') in 0.074835 seconds
+  Import took 0.201912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Idle02.fbx
+  artifactKey: Guid(b66c3422f4986334c9ff55882cf84247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Idle02.fbx using Guid(b66c3422f4986334c9ff55882cf84247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfc2bf96ee8003a1ede059de57eb2e8d') in 0.033172 seconds
+  Import took 0.037604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/JumpStart.fbx
+  artifactKey: Guid(5a98a2bd7109a9049b48458fe460aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/JumpStart.fbx using Guid(5a98a2bd7109a9049b48458fe460aefb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef6fd7b5b018b40147b58c492d1aa4a5') in 0.057608 seconds
+  Import took 0.062067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/BattleRunForward.fbx
+  artifactKey: Guid(057ecc6c28778d141a1ce011ee4a6b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/BattleRunForward.fbx using Guid(057ecc6c28778d141a1ce011ee4a6b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a8435c6cf9a497811e8d72ef238a629') in 0.053537 seconds
+  Import took 0.199321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/BattleWalkLeft.fbx
+  artifactKey: Guid(cb2d7c8eb8d682d4db58ae9673579e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/BattleWalkLeft.fbx using Guid(cb2d7c8eb8d682d4db58ae9673579e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8013f71e0eabcb95e09227637b5cc8') in 0.079698 seconds
+  Import took 0.175146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/JumpAir.fbx
+  artifactKey: Guid(4c2b27c0e8327b840ab5f916209ba36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/JumpAir.fbx using Guid(4c2b27c0e8327b840ab5f916209ba36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314920eb82d4aa91921a1fb10e1ee4e1') in 0.074970 seconds
+  Import took 0.142315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Die.fbx
+  artifactKey: Guid(48511f3269ab33140ad32d856584c98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Die.fbx using Guid(48511f3269ab33140ad32d856584c98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa93f89a8644c84dabb259e6ea1c54c') in 0.083868 seconds
+  Import took 0.087263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/GetHit.fbx
+  artifactKey: Guid(2f592d5d1c1add446a8b3c2ff3f18a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/GetHit.fbx using Guid(2f592d5d1c1add446a8b3c2ff3f18a4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1dd336c455c8428ffc7ad0d71d19d1') in 0.076931 seconds
+  Import took 0.155842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Idle03.fbx
+  artifactKey: Guid(cb4c96787ba07184d9956f64f02cee49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Idle03.fbx using Guid(cb4c96787ba07184d9956f64f02cee49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56481273ec59c87aad516adce5123be') in 0.079110 seconds
+  Import took 0.181826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/VictoryMaintain.fbx
+  artifactKey: Guid(b016241d6c755924faa72ef01f6917f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/VictoryMaintain.fbx using Guid(b016241d6c755924faa72ef01f6917f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0738d87abc80e1d1f5dfbd08b997a9') in 0.060745 seconds
+  Import took 0.064213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/PotionDrink.fbx
+  artifactKey: Guid(e5325ecccbec8e94f957227cd2b72fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/PotionDrink.fbx using Guid(e5325ecccbec8e94f957227cd2b72fca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d134f4ae7f58a661b72894e63f1eb39') in 0.056978 seconds
+  Import took 0.227021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/DefendStart.fbx
+  artifactKey: Guid(fee3c136e33beab44910227b8afc9d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/DefendStart.fbx using Guid(fee3c136e33beab44910227b8afc9d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4dfdb3a469e63afb7bcfd57d7a8108') in 0.080406 seconds
+  Import took 0.135330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/Dizzy.fbx
+  artifactKey: Guid(7d2e0a865aa3eca4a9fa04b999ad8f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/Dizzy.fbx using Guid(7d2e0a865aa3eca4a9fa04b999ad8f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c868fa556cc1e6cd469eb2cb3033f331') in 0.043316 seconds
+  Import took 0.184692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Unity Store Assets/WizardPolyArt/Animations/DefendStart.fbx
+  artifactKey: Guid(fee3c136e33beab44910227b8afc9d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Unity Store Assets/WizardPolyArt/Animations/DefendStart.fbx using Guid(fee3c136e33beab44910227b8afc9d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e4dfdb3a469e63afb7bcfd57d7a8108') in 0.028507 seconds
+  Import took 0.032102 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.6 MB.
+System memory in use after: 156.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2254.
+Total: 3.533300 ms (FindLiveObjects: 0.344500 ms CreateObjectMapping: 0.055000 ms MarkObjects: 3.103500 ms  DeleteObjects: 0.028700 ms)
+
